@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Python,React, mocha**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JavlonbekGoziev](https://github.com/JavlonbekGoziev)
+- 👨‍💻 All of my projects are available at github
 
 - 📝 I regularly write articles on [https://t.me/withgoziyev](https://t.me/withgoziyev)
 
