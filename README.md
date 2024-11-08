@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at github
 
-- 📝 I regularly write articles on [https://t.me/withgoziyev](https://t.me/withgoziyev)
+- 📝 I regularly write articles on [https://t.me/withgoziyev]
 
 - 📫 How to reach me **javlonbek.goziev@mail.ru**
 
-- 📄 Know about my experiences [https://t.me/resumeof](https://t.me/resumeof)
+- 📄 Know about my experiences (https://t.me/resumeof)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
