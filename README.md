@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++, Python,React, mocha**
 
-- 👨‍💻 All of my projects are available at github
+- 👨‍💻 All of my projects are available at github. 30-days challenge to write code every day
 
 - 📝 I regularly write articles on [https://t.me/withgoziyev]
 
