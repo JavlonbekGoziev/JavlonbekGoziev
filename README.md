@@ -7,10 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javlonbekgoziev&label=Profile%20views&color=0e75b6&style=flat" alt="javlonbekgoziev" /> </p>
 
 CS Student @ Webster University 🎓  
-Backend Developer | Python | AWS 
 
-Building web apps, learning new tech, solving problems.
+Building full-stack web apps with Python & AWS ☁️  
+Learning new tech, solving problems 💻
 
 📫 jvgoziev@gmail.com
-
 
