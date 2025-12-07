@@ -1,22 +1,17 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Javlonbek Goziev</h1>
-<h3 align="center">A junior back end developer from Uzbekistan </h3>
+<h1 align="center">Hi, I'm Javlon </h1>
+<h3 align="center">A back end developer from Uzbekistan </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javlonbekgoziev&label=Profile%20views&color=0e75b6&style=flat" alt="javlonbekgoziev" /> </p>
 
-- 🔭 I’m currently working on **my projects, not job, I am searching**
+CS Student @ Webster University 🎓  
+Backend Developer | Python | AWS 
 
-- 🌱 I’m currently learning **C++, Python,React, mocha**
+Building web apps, learning new tech, solving problems.
 
-- 👨‍💻 All of my projects are available at github. 30-days challenge to write code every day
-
-- 📝 I regularly write articles on [https://t.me/withgoziyev]
-
-- 📫 How to reach me **javlonbek.goziev@mail.ru**
-
-- 📄 Know about my experiences (https://t.me/resumeof)
+📫 jvgoziev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
